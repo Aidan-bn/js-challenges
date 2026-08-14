@@ -15,10 +15,11 @@ body {
   display: flex;
   gap: 5px;
   margin: 3rem auto;
-  width: 80dvw;
+  width: 60dvw;
   padding: 1rem;
   border-radius: 2rem;
   background-color: #f3e3d8;
+  box-shadow: 2px 4px 8px 0px rgba(0,0, 0, 0.2);
 }
 
 .small-img {
@@ -39,7 +40,7 @@ body {
 }
 
 .large-img, .descriptions{
-  width: 40%;
+  width: 45%;
   padding: 0.5rem;
   /* border: 1px solid #fff; */
 }
